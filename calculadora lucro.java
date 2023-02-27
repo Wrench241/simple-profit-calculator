@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class pratica {
+public class spc {
     public static void main(String[] args) {
 
        float bar = Float.parseFloat(JOptionPane.showInputDialog(null,"digite valor gasto com material:",
