@@ -1,3 +1,3 @@
 # simple-profit-calculator
-simple profit calculator :p
+simple profit calculator.
 this is a simple calculator of profit.
